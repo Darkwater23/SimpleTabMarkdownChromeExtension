@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Simple Tab Markdown",
-  "description": "Simple extension to copy the page title and URL of the current tab in markdown format. Useful for bloggers or wiki maintainers that want to create links to websites discovered for research or documentation.",
+  "description": "Simple extension to copy the page title and URL of the current tab in markdown format. Useful for bloggers, wiki maintainers, etc.",
   "homepage_url": "https://github.com/Darkwater23",
   "version": "1.0",
   "action": {
@@ -11,7 +11,5 @@
       "32": "copy32.png"
     },
     "default_title": "Simple Tab Markdown"
-  },
-  "permissions": ["tabs", "scripting"],
-  "host_permissions": ["https://*/*", "http://*/*"]
+  }
 }
