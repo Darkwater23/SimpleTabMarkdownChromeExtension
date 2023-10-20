@@ -1,0 +1,21 @@
+body {
+  min-width:300px;
+  font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+label {
+  font-weight: bold;
+}
+
+button {
+  margin: 0.5em 0 0 0;
+}
+
+#txtMarkdown {
+  background-color: transparent;
+  width: 100%;
+}
