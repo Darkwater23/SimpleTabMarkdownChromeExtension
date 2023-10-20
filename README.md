@@ -4,4 +4,5 @@ I created this extension to help me with creating links to websites when I'm blo
 
 Enjoy!
 
-Thanks to llagerlof for helping me get started with this project: [llagerlof/fresh-chrome-extension: Useful bare minimum Google Chrome extension boilerplate.](https://github.com/llagerlof/fresh-chrome-extension)
+Thanks to llagerlof for helping me get started with this project:
+[llagerlof/fresh-chrome-extension: Useful bare minimum Google Chrome extension boilerplate.](https://github.com/llagerlof/fresh-chrome-extension)
